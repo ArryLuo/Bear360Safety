@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bear360Safety</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="sldingmenu_main_connect_net_for_update">联网升级</string>
+    <string name="sldingmenu_main_recommend_friends">推荐好友</string>
+    <string name="sldingmenu_main_submit_problem">问题反馈</string>
+    <string name="sldingmenu_main_help_info">帮助信息</string>
+    <string name="sldingmenu_main_about_me">关于我们</string>
+    <string name="title_activity_phone_clear">PhoneClearActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+
+</resources>

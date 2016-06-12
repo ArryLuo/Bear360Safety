@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_backgroundcolor"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/slidingmenu_item_01"
+        style="@style/textview_sldingmenu_main_style"
+        android:layout_marginTop="50dp"
+        android:drawableTop="@drawable/menu_net_update"
+        android:text="@string/sldingmenu_main_connect_net_for_update"/>
+
+    <Button
+        android:id="@+id/slidingmenu_item_02"
+        style="@style/textview_sldingmenu_main_style"
+        android:drawableTop="@drawable/recommand_friend_normal"
+        android:text="@string/sldingmenu_main_recommend_friends" />
+
+    <Button
+        android:id="@+id/slidingmenu_item_03"
+        style="@style/textview_sldingmenu_main_style"
+        android:drawableTop="@drawable/submit_proposal_normal"
+        android:text="@string/sldingmenu_main_submit_problem" />
+
+    <Button
+        android:id="@+id/slidingmenu_item_04"
+        style="@style/textview_sldingmenu_main_style"
+        android:drawableTop="@drawable/help_information_normal"
+        android:text="@string/sldingmenu_main_help_info" />
+
+    <Button
+        android:id="@+id/slidingmenu_item_05"
+        style="@style/textview_sldingmenu_main_style"
+        android:drawableTop="@drawable/main_about_normal"
+        android:text="@string/sldingmenu_main_about_me" />
+
+</LinearLayout>
